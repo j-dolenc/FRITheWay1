@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FRITheWay1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red_ish</item>
+        <item name="colorPrimaryVariant">@color/red_ish_2</item>
+        <item name="colorOnPrimary">@color/blue_black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/yellow_ish</item>
+        <item name="colorSecondaryVariant">@color/yellow_ish_2</item>
+        <item name="colorOnSecondary">@color/blue_black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:background">@color/blue_white</item>
+        <!-- Customize your theme here. -->
+    </style>
+  <!-- Base application theme. -->
+    <style name="Base.Theme.FRITheWay1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
